@@ -53,7 +53,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 ---
 
 
-<h2 align="center"><u><b>¿Qué tecnologías que utilizo?</b></u></h2>
+<h2 align="center"><u><b>¿Qué tecnologías utilizo?</b></u></h2>
 
 <h3 align="center">Languajes</h3>
 <p align="center">
@@ -156,7 +156,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 
 ----
 
-<h3 align="center">Encuentrame en</h3>
+<h3 align="center">Encuéntrame en</h3>
 
 <div style="margin-top:10px" align="center">
   <div>
@@ -171,7 +171,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
   </div>
 </div>
 
-<h3 align="center">Contactame mediante</h3>
+<h3 align="center">Contáctame mediante</h3>
 
 <p align="center">
    <!--
@@ -182,18 +182,18 @@ experiencia educativa, puedo destacar lo siguiente de mi:
   </a>
 </p>
 
-<!--
+
 ----
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Estatus de Github</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=edwardv1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/edwardv1)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=edwardv1&theme=material-palenight)](https://github.com/edwardv1)
 </div>
 
 ----
--->
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
