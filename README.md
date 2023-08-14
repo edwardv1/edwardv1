@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 <h3 font-size="20" align="center">Un apasionado Desarrollador Web Full Stack orientado a Frontend</h3>
 
 
-- 🌱 Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack con un firme compromiso de crecimiento constante personal y técnico.  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+-  Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
+- Con un firme compromiso de crecimiento constante personal y técnico.
+ 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
 - 🤝 I’m looking for help with **Backend Design**
