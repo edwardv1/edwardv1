@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hola! soy Edward<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">Un apasionado Desarrollador Web Full Stack orientado a Frontend</h3>
+<h3 font-size="20" align="center">Un apasionado Desarrollador Web Full Stack orientado al desarrollo Frontend</h3>
 
 <h3 font-size="16" align="start"> ¿Quién soy?</h3>
 👨‍💻 Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
@@ -42,13 +42,13 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 <h3 font-size="16" align="start"> ¿A dónde me dirijo?</h3>
 
 - Un aspecto que particularmente me fascina es el desarrollo Frontend, en este entorno también descubrí mi interés por el UI/UX. Asi, a partir de mis intereses y conocimientos, me encantaría formar parte de un grupo de trabajo donde pueda combinar la estética y la funcionalidad del código para crear experiencias digitales cautivadoras y atractivas para los usuarios.
-
+<!--
 - 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
-
+-->
 
 ---
 
