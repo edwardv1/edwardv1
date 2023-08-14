@@ -174,15 +174,15 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 <h3 align="center">Contactame mediante</h3>
 
 <p align="center">
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?logoColor=white" alt="example" width="100" height="20" style="background: white; padding: 10px;"/>
+  <a href="edwardismael1@gmail.com.?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?logoColor=white" alt="example" width="60" height="20" style="background: white; padding: 10px;"/>
   </a>
 </p>
 
 ----
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">Estatus de Github</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
