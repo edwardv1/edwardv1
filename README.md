@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 
 -  Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-- Con un firme compromiso de crecimiento constante personal y técnico.
+con un firme compromiso de crecimiento constante personal y técnico.
  
 - 👯 I’m looking to collaborate on **Spring Framework**
 
