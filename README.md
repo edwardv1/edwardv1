@@ -34,7 +34,15 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 
 - Además, la capacidad de liderazgo que he desarrollado a lo largo de mi trayectoria de estudio no descarta mi disposición para ser un seguidor comprometido y efectivo. Puedo alternar entre liderar y seguir instrucciones en un grupo, adaptándome según la situación lo requiera.
 
-- Me considero una persona que apuesta por la autosuperación, teniendo esto en cuenta para contribuir de manera positiva con el cumplimientos de objetivos.
+- Me considero una persona que apuesta por la autosuperación, teniendo esto en cuenta para contribuir de manera positiva con el cumplimientos de objetivos, ya sea de manera individual o grupal.
+
+<h3 font-size="16" align="start"> ¿Qué hago?</h3>
+
+- Actualmente me dedico a desarrollar proyectos que me permitan avanzar con mi formación como desarrollador web, a la par de realizar cursos e informandome para seguir aprendiendo nuevas tecnologias de vanguardia y fortalecer mis tech skills.
+
+<h3 font-size="16" align="start"> ¿A dónde me dirijo?</h3>
+
+- Un aspecto que particularmente me fascina es el desarrollo Frontend, en este entorno también descubrí mi interés por el UI/UX. Asi, a partir de mis intereses y conocimientos, me encantaría formar parte de un grupo de trabajo donde pueda combinar la estética y la funcionalidad del código para crear experiencias digitales cautivadoras y atractivas para los usuarios.
 
 - 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
 
