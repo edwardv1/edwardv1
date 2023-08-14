@@ -53,7 +53,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 ---
 
 
-<h2 align="center"><u><b>Tecnologías que utilizo</b></u></h2>
+<h2 align="center"><u><b>¿Qué tecnologías que utilizo?</b></u></h2>
 
 <h3 align="center">Languajes</h3>
 <p align="center">
