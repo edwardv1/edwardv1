@@ -18,12 +18,15 @@ Here are some ideas to get you started:
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
-<h1 align="center">Hola, soy Edward Vera<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hola! soy Edward<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Un apasionado Desarrollador Web Full Stack orientado a Frontend</h3>
 
 
 -  Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 con un firme compromiso de crecimiento constante personal y técnico.
+
+Di mis primeros pasos en el mundo de la tecnología en 2020 al embarcarme en la carrera de Ingeniería en Informática; 
+esta etapa me condujo hacia un emocionante camino: un bootcamp intensivo de desarrollo web Fullstack.
  
 - 👯 I’m looking to collaborate on **Spring Framework**
 
