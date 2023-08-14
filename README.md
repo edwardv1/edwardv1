@@ -144,7 +144,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center">Entorno de desarrollo integrado y herramientas preferidos</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
@@ -175,7 +175,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 
 <p align="center">
   <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example" width="200" height="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example" width="60" height="30"/>
   </a>
 </p>
 
