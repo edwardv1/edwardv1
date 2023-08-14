@@ -175,9 +175,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 
 <p align="center">
   <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <div style="background-color: white; display: inline-block; padding: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example" width="100" height="20" style="background: white; padding: 10px;"/>
-      </div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?logoColor=white" alt="example" width="100" height="20" style="background: white; padding: 10px;"/>
   </a>
 </p>
 
