@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hola! soy Edward<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Un apasionado Desarrollador Web Full Stack orientado a Frontend</h3>
 
-
+<h3 font-size="16" align="start"> ¿Quién soy?</h3>
 👨‍💻 Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 con un firme compromiso de crecimiento constante personal y técnico.
 
@@ -32,7 +32,9 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 - Cuento con sólidas habilidades comunicativas, capacidad para trabajar en equipo al participar en varios proyectos
   grupales siguiendo la metodología SCRUM junto con el workflow de GIT.
 
-- 🤝 I’m looking for help with **Backend Design**
+- Además, la capacidad de liderazgo que he desarrollado a lo largo de mi trayectoria de estudio no descarta mi disposición para ser un seguidor comprometido y efectivo. Puedo alternar entre liderar y seguir instrucciones en un grupo, adaptándome según la situación lo requiera.
+
+- Me considero una persona que apuesta por la autosuperación, teniendo esto en cuenta para contribuir de manera positiva con el cumplimientos de objetivos.
 
 - 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
 
