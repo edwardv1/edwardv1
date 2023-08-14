@@ -182,6 +182,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
   </a>
 </p>
 
+<!--
 ----
 
 <div align="center">
@@ -192,6 +193,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 </div>
 
 ----
+-->
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
@@ -199,6 +201,4 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/Elanza-48)
 
-Last Edited on: 09/09/2021
