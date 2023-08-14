@@ -177,7 +177,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
    <!--
   <a href="edwardismael1@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
   -->
-    <a href="edwardismael1@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <a href="mailto:edwardismael1@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?logoColor=white" alt="example" width="60" height="20" style="background: white; padding: 10px;"/>
   </a>
 </p>
