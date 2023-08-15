@@ -33,7 +33,7 @@ experiencia educativa, puedo destacar lo siguiente de mi:
 
 - Además, la capacidad de liderazgo que he desarrollado a lo largo de mi trayectoria de estudio no descarta mi disposición para ser un seguidor comprometido y efectivo. Puedo alternar entre liderar y seguir instrucciones en un grupo, adaptándome según la situación lo requiera.
 
-- Me considero una persona que apuesta por la autosuperación, teniendo esto en cuenta para contribuir de manera positiva con el cumplimientos de objetivos, ya sea de manera individual o grupal.
+- Me considero una persona que apuesta por la autosuperación, teniendo esto en cuenta para contribuir de manera positiva con el cumplimiento de objetivos, ya sea de manera individual o grupal.
 
 <h3 font-size="16" align="start"> ¿Qué hago?</h3>
 
