@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <h3 font-size="20" align="center">Un apasionado Desarrollador Web Full Stack</h3>
 
 <h3 font-size="16" align="start"> ¿Quién soy?</h3>
-👨‍💻 Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-con un firme compromiso de crecimiento constante personal y técnico.
+👨‍💻 Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack con un firme compromiso de crecimiento constante personal y técnico. <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+
 
 ⚡ Di mis primeros pasos en el mundo de la tecnología en 2020 al embarcarme en la carrera de Ingeniería en Informática; 
 esta etapa me condujo hacia un emocionante camino: un bootcamp intensivo de desarrollo web Fullstack. De acuerdo a mi 
