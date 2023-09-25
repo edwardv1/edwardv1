@@ -150,7 +150,9 @@ experiencia educativa, puedo destacar lo siguiente de mi:
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+   <a href="https://figma.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  </a>
 </p>
 
 ----
