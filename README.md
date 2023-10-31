@@ -73,10 +73,12 @@ experiencia educativa, puedo destacar lo siguiente de mi:
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
+  <!--
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
+  -->
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -92,11 +94,9 @@ experiencia educativa, puedo destacar lo siguiente de mi:
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
-  <!--
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwidcss" /> 
   </a>
-  -->
 </p>
 
 <h3 align="center">Backend</h3>
