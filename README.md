@@ -92,9 +92,11 @@ experiencia educativa, puedo destacar lo siguiente de mi:
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
+  <!--
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwidcss" /> 
   </a>
+  -->
 </p>
 
 <h3 align="center">Backend</h3>
